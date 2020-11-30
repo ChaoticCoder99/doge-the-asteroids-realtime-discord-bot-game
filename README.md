@@ -5,8 +5,10 @@ IF YOU WANT TO REDISTRIBUTE THIS GAME/BOT PLEASE MAKE SURE ONE OF THE FIRST LINE
 
 So I created this game as a fun challenge, and I may have made history.
 # Requirements
-Python 3.6.x
-discord.py library and its dependancies
-run a discord bot application
+  Python 3.6.x
+
+  discord.py library and its dependancies
+
+  run a discord bot application
 
 Here is how to run it: W.I.P.
