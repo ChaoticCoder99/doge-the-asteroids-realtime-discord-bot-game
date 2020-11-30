@@ -1,2 +1,2 @@
-# Fixed bug where if person a started a game person b could controlthe ship
-# Increade asteroid spawn chance from 1/6 to 1/4
+# Fixed bug where if person A started a game person B could control the ship
+# Increased asteroid spawn chance from 0.16 to 0.25
