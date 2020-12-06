@@ -10,7 +10,6 @@ import theGameClass
 client = discord.Client()
 
 # Defining some constants
-ME         = client.get_user(531401464648695808)
 ADMIN_CODE = random.randint(0,999999999)
 with open("token.txt") as f:    # Getting the token from token.txt
     TOKEN = f.read().rstrip("\n")
